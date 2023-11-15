@@ -1,3 +1,12 @@
 # Recommendation-System
 
- I will use a CNN Model to create a Fashion Embedding. This information can be used in ML algorithms with higher semantic quality and similarity between Objects. We will use embeddings to identify similar items, this information will be used to recommend similar content in Recommendation System.
+1. Introduction
+In this notebook, I will use ResNet50 Model and Convolutional Autoencoder Model to create two kind of Fashion Embeddings. We will use embeddings to identify similar items, this information will be used to recommend similar content in Recommendation System.
+
+1.1 Data Preparation
+
+1.2 Use ResNet50 Model to Recommendation
+
+1.3 Use Convolutional Autoencoder Model to Recommendation
+
+1.4 Visualization Latent Space of Contents
